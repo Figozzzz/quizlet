@@ -50,9 +50,9 @@ For more information about what individual modules we have and settings or descr
 
 
 
-defualt but you can config the color with ColorUI<img width="1361" height="765" alt="image" src="https://github.com/user-attachments/assets/f830906f-f8c0-418f-b151-6257ec165b73" />
+defualt but you can config the color with ColorUI
 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/24fef182-33dd-43f0-ab07-ae463c75d9d2" />
+<img width="1365" height="764" alt="image" src="https://github.com/user-attachments/assets/30164d96-4701-44e2-bad2-5711757c1c68" />
 
 Its also bypasses every anticheat so very good for closet cheating. :)
 
